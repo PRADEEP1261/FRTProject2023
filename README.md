@@ -1,6 +1,6 @@
 # FRTProject2023
 # MEDPILL
-This is a web-based application developed for the health domain based website.
+This is a web-based application developed for the health domain.
 This web-based application has been developed for the accomplishment of the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Project link - https://agreeable-flower-0c961eb00.3.azurestaticapps.net/
