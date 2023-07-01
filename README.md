@@ -5,7 +5,7 @@ This web-based application has been developed for the accomplishment of the Futu
 
 Project link - https://agreeable-flower-0c961eb00.3.azurestaticapps.net/
 
-Project demo video link - 
+Project demo video link - https://youtu.be/q6AnabFthJ0
 
 Azure Technologies used for project Static Web apps Azure Blob Storage
 
